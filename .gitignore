@@ -96,7 +96,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -147,7 +146,6 @@ logs/
 *.log
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -169,3 +167,9 @@ mlruns/
 tmp/
 temp/
 *.tmp
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules

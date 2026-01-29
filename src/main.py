@@ -11,6 +11,7 @@ Usage:
     python src/main.py evaluate --model model.pkl --test-data test.csv
 """
 
+import utils.session
 import argparse
 import sys
 import os
